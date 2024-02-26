@@ -1,0 +1,7 @@
+[flake8]
+exclude =
+    # No need to traverse venv directory with installed packages.
+    venv,
+    # Ignore checking cache directories.
+    __pycache__,
+max-line-length = 88
