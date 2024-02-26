@@ -40,12 +40,12 @@ curl -sSL https://raw.githubusercontent.com/zen-code-symphony/openaiplayground/m
 2. Add `OPENAI_API_KEY=<Your OpenAI secret key>` entry in the file. Replace secret key with your secret key. You can create one at [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys).
 3. From terminal, configure the PYTHONPATH:
     ```sh
-    $ export PYTHONPATH="${PYTHONPATH}:./src"
+    export PYTHONPATH="${PYTHONPATH}:./src"
     ```
 4. Test if you can run scripts and interact with the OpenAI APIs:
    ```sh
-   $ source venv/bin/activate
-   $ python src/app/principle_clear_and_specific/few_shots.py
+   source venv/bin/activate
+   python src/app/principle_clear_and_specific/few_shots.py
    ```
 
 ## Configure VS Code
