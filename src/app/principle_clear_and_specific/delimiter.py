@@ -1,11 +1,4 @@
-# greeting.py
-
-"""Demonstate the principle of writing clear and specific instructions.
-
-The module covers the following prompting tactics:
-
-- `delimit` - Use delimiters to clearly indicate distinct parts of the input.
-"""
+"""Demonstrate usage of delimiters to indicate distinct parts of the input."""
 
 from app.common.prompt_processor import process_prompt
 
