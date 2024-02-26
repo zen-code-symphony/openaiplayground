@@ -1,4 +1,11 @@
-"""Demonstrate usage of delimiters to indicate distinct parts of the input."""
+"""Demonstrate usage of delimiters to indicate distinct parts of the input.
+
+This technique is based on the prompting principle:
+Write clear and specific instructions.
+
+Note: delimiters can be anything e.g. ```, \"\"\", < >, <tag> </tag> etc. In
+this example, we used ``` i.e. triple backticks as the delimiter.
+"""
 
 from app.common.prompt_processor import process_prompt
 
