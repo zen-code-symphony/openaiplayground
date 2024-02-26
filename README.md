@@ -1,6 +1,6 @@
-# py-basic-scaffold
+# openaiplayground
 
-The objective of this project is to provide a quick basic setup for a python project. `git clone` and make it yours!
+The objective of this project is to experiment with OpenAI APIs.
 
 [![Testing](https://github.com/zen-code-symphony/py-basic-scaffold/actions/workflows/test.yml/badge.svg)](https://github.com/zen-code-symphony/py-basic-scaffold/actions/workflows/test.yml)
 
