@@ -13,3 +13,9 @@ pre-commit
 # pytest.
 pytest
 pytest-cov
+
+# OpenAI library.
+openai
+
+# Environment variables.
+python-dotenv
